@@ -18,7 +18,7 @@ export const Content: Block = {
   fields: [
     {
       name: 'content',
-      type: 'richText',
+      type: 'text',
     },
   ],
 };

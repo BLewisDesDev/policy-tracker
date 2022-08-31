@@ -54,11 +54,11 @@ export const Image: Block = {
     {
       name: 'caption',
       label: 'Caption',
-      type: 'richText',
-      admin: {
-        elements: [
-          'link',
-        ],
+      type: 'text',
+      // admin: {
+      //   elements: [
+      //     'link',
+      //   ],
       },
     },
   ],

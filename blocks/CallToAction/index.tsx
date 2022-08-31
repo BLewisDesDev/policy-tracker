@@ -37,7 +37,7 @@ export const CallToAction: Block = {
   fields: [
     {
       name: 'content',
-      type: 'richText',
+      type: 'text',
     },
     {
       name: 'buttons',
