@@ -59,7 +59,7 @@ export const Image: Block = {
       //   elements: [
       //     'link',
       //   ],
-      },
+      // },
     },
   ],
 };
